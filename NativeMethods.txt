@@ -1,0 +1,7 @@
+ENUM_DISPLAY_SETTINGS_MODE
+EnumDisplayMonitors
+EnumDisplaySettings
+GetDpiForMonitor
+GetMonitorInfo
+GetScaleFactorForMonitor
+MONITORINFOEXW

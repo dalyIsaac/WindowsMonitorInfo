@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WindowsMonitorInfo (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WindowsMonitorInfo (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
